@@ -8,10 +8,15 @@ For detailed information, refer to the subject of this project.
 into a library for use in other projects of the cursus.
 Functions from <ctype.h> library
 ft_isascii - test for ASCII character.
+
 ft_isalnum - alphanumeric character test.
+
 ft_isalpha - alphabetic character test.
+
 ft_islower * - lower-case character test.
+
 ft_isupper * - upper-case character test.
+
 ft_isdigit - decimal-digit character test.
 ft_isxdigit * - hexadecimal-digit character test.
 ft_isprint - printing character test (space character inclusive).
