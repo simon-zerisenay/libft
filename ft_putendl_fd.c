@@ -26,3 +26,4 @@ void	ft_putendl_fd(char *s, int fd)
 //     ft_putendl_fd(s, 1);
 //     return (0);
 // }
+
