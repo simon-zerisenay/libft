@@ -32,3 +32,5 @@ void	ft_bzero(void *s, size_t n)
 //     ft_bzero(str, 3);
 //     printf("%s\n", str);
 // }
+
+
