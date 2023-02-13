@@ -161,3 +161,7 @@ ft_lstmap - apply function to content of all list's elements into new list.
 
 Note: functions marked with * are bonus functions (not mandatory by the project's subject).
 
+
+
+
+
