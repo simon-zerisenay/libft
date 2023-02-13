@@ -26,3 +26,5 @@ int	ft_isascii(int c)
 // 	// printf("\n %d", isascii(a));
 // 	return(0);
 // }
+
+
