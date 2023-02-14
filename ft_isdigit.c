@@ -26,3 +26,4 @@ int	ft_isdigit(int c)
 // 	printf("%d", ft_isdigit(a));
 // 	return(0);
 // }
+
