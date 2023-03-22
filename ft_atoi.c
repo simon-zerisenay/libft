@@ -17,7 +17,7 @@ int	ft_atoi(const	char *nptr)
 	int	result;
 	int	sign; 
 	int	num;
-
+ 
 	sign = 1;
 	result = 0;
 	while (nptr && ((*nptr >= 9 && *nptr <= 13) || *nptr == 32))
