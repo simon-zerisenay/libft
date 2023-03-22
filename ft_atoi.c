@@ -23,7 +23,7 @@ int	ft_atoi(const	char *nptr)
 	while (nptr && ((*nptr >= 9 && *nptr <= 13) || *nptr == 32))
 		nptr++;
 	if (*nptr == '-' || *nptr == '+')
-	{
+	{ 
 		if (*nptr == '-')
 			sign = -1;
 		nptr++;
