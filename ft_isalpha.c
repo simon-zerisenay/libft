@@ -21,7 +21,7 @@ int	ft_isalpha(int c)
 }
 
 // int main() 
-// {
+// { 
 // 	char a = 'A';
 // 	printf("%d", ft_isalpha(a));
 // 	return(0);
