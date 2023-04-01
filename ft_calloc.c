@@ -19,7 +19,7 @@ void	*ft_calloc(size_t count, size_t size)
 	if (count >= 65535 && size >= 65535)
 		return (0); 
 	p = malloc (count * size);
-	if (!p)
+	if (!p) 
 		return (0); 
 	ft_bzero(p, (count * size));
 	return (p);
