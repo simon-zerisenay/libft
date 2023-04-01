@@ -38,7 +38,7 @@ int	ft_atoi(const	char *nptr)
 	result *= sign;
 	return (result);
 }
-
+ 
 // int main()
 // {
 //     char *num = "-2147483649";
