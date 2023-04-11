@@ -21,7 +21,7 @@ int	ft_isalnum(int c)
 		return (0);
 }
 
-// int main()
+// int main()   
 // {
 // 	char a = '2';
 // 	printf("%d", ft_isalnum(a));
