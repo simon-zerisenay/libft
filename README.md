@@ -1,8 +1,8 @@
 # libft
 
-<div align="center">
-<a href="https://github.com/simon-zerisenay/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
-</div>
+
+<a href="https://github.com/simon-zerisenay/libft" align="center">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
+
 🗣️ About
 The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects.
 
