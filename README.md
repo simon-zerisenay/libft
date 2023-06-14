@@ -27,7 +27,7 @@ ft_islower * - lower-case character test.
  
 ft_isupper * - upper-case character test.  
 
-ft_isdigit - decimal-digit character test.
+ft_isdigit - decimal-digit character test. 
  
 ft_isxdigit * - hexadecimal-digit character test.
 
