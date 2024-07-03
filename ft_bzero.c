@@ -25,7 +25,7 @@ void	ft_bzero(void *s, size_t n)
 }
 
 // int main()
-// {
+// { 
 //     char str[4] = "ABCD";
 //     printf("%s\n", str);
 // 	Fills first n values of the string  with null
